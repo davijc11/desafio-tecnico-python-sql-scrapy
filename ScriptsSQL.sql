@@ -1,4 +1,4 @@
-venCREATE DATABASE IF NOT EXISTS teste_instar;
+CREATE DATABASE IF NOT EXISTS teste_instar;
 USE teste_instar;
 
 CREATE TABLE clientes (
